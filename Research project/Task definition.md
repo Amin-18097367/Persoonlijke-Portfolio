@@ -1,5 +1,5 @@
 # Task definition
-We zijn dit project begonnen met weinig tot geen ervaring in datascience. Hiervoor hebben wij een introductie gehad waarin Datascience wordt uitgelegd en wat wij kunnen verwachten van deze minor. Mijn projectgroep en ik hadden als onderwerp: Het voorspellen van energie gebruik van 120 huizen in zoetermeer. Hierbij ontvingen wij datasets van 120 NZEB Net Zero Energy Houses van een jaartijd met een resolutie van 5 minuten. 
+Het doel van dit onderzoek is het ontwerpen van een machine learning model waarmee de energie productie en gebruik van 120 nul op de meter huizen 1 dag van te voren voorspelt kan worden. Deze huizen zijn gelokaliseerd in Zoetemeer en zijn gebouwd in opdracht van het bedrijf Factory Zero. Als begeleider bij het project is het team Salcedo Rahola, T.B toegewezen, hij zal het aanspreek punt zijn voor vragen en verdere informatie over de opdracht.  
 
 Als groep heeft een ieder van ons de tijd gehad om opzoek te gaan naar relevante artikelen. De artikelen die ik gevonden heb zijn:
 - How data science is changing the renewable energy market
@@ -9,10 +9,11 @@ Als groep heeft een ieder van ons de tijd gehad om opzoek te gaan naar relevante
 
 Aan de hand van ons research hebben wij de volgende hoofdvragen en deelvragen bedacht:
 ### Hoofdvraag
-- What is a suitable model to predict energy consumption and production of an nZEB, one day in advance with hourly resolution?
+- Wat is een toepasselijk machine learning model waarmee het energie verbruik & opbrengst van een nul op de meter huis 1 uur van tevoren voorspeld kan worden voor de volgende dag? 
 ### Deelvragen
-- 1
-- 2
-- 3
-- 4
-- 5
+- Welke datasets zijn er beschikbaar om de huidige dataset te verrijken?  
+- Hoe wordt de energieopbrengst bepaald? 
+- Hoe wordt het energiegebruik bepaald?  
+- Welk machine learning model is het meest geschikt en hoe wordt het effectief toegepast?
+
+

@@ -1,4 +1,6 @@
 # Task definition
+Duidelijk omschreven context en onderzoeksvragen die in een gegeven context redelijk zijn
+
 Het doel van dit onderzoek is het ontwerpen van een machine learning model waarmee de energie productie en gebruik van 120 nul op de meter huizen 1 dag van te voren voorspelt kan worden. Deze huizen zijn gelokaliseerd in Zoetemeer en zijn gebouwd in opdracht van het bedrijf Factory Zero. Als begeleider bij het project is het team Salcedo Rahola, T.B toegewezen, hij zal het aanspreek punt zijn voor vragen en verdere informatie over de opdracht.  
 
 Als groep heeft een ieder van ons de tijd gehad om opzoek te gaan naar relevante artikelen. De artikelen die ik gevonden heb zijn:

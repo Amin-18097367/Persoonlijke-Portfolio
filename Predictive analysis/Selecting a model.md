@@ -28,3 +28,5 @@ Voor productie hebben de volgende machine learning modellen gebruikt:
 - NN
 - MVLR
 - SVR
+
+Dit zijn de machine learning modellen die wij gaan gebruiken voor het voorspellen van energieverbuik. Dit zijn een hoop modellen, hierom hebben wij het werk opgesplits. De modellen waar ik aan heb gewerkt zijn: LSTM voor zowel consumptie als productie, SVR voor consumptie, en NN

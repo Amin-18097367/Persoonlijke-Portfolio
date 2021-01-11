@@ -54,3 +54,4 @@ def get_sheet_names(i):
         
         print("House {} has {} sheets.".format(house_number, len(sheets_names)))
 ```
+Dit is een functie die ik heb mogen gebruiken van een projectlid van mij. 

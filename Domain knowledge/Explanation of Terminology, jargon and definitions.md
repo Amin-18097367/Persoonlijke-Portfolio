@@ -69,13 +69,6 @@ In een reeks waarden die in volgorde worden vermeld, is de mediaan de waarde in 
 
 Een tijdreeks is een set gegevens die is gesorteerd op het moment waarop elk gegevenspunt optrad. Denk aan de beurskoersen in de loop van een maand, of de temperatuur gedurende een dag.
 
-#### Residual (Error):
-
-Het residual is een maatstaf voor hoeveel een werkelijke waarde verschilt van een of andere statische waarde die we hebben berekend op basis van de set gegevens. Dus gezien een voorspelling dat het morgen om 12.00 uur 20 graden Fahrenheit zal zijn, als het middag is en het slechts 18 graden is, hebben we een fout van 2 graden. Dit wordt vaak door elkaar gebruikt met de term "fout", ook al is fout technisch gezien een puur theoretische waarde
-
-#### Variance:
-
-De variantie van een reeks waarden meet hoe verspreid die waarden zijn. Wiskundig gezien is het gemiddelde verschil tussen individuele waarden en het gemiddelde voor de reeks waarden. De vierkantswortel van de variantie voor een set geeft ons de standaarddeviatie, die intuïtiever bruikbaar is.
 
 #### Data Exploration:
 

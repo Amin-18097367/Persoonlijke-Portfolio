@@ -1,1 +1,12 @@
 # Evaluation on the group project as a whole.
+Het reflecteren op de leerdoelen
+
+Dit is de eerste keer dat ik ben begonnen aan een minor dus ik wist niet wat ik kon verwachten. De eerste les die ik gevolgd had was op de HHS zelf, dit was een workshop. De groepen waren al gemaakt en ik had nog geen groepje aangezien ik me later had aangemeld voor deze minor. Omdat ik zelf niet kon kiezen met wie ik in het groepje wou of aan welk project ik zou willen meedoen. Ben ik gezet in de Team Zero groep. Tijdens de workshop was er alleen 1 projectlid, dus heb niet echt kennis kunnen maken met iedereen. De eerste week hebben we ons zelf voorgesteld en onze intresses gedeeld om elkaar beter te leren kennen. In de zelfde week hebben wij ook kennis gemaakt met onze opdracht geven meneer Rahola en vertelde ons wat hij van dit project verwacht.
+
+Als groep was het de taak om energie gebruik te voorspellen met behulp van Datascience. Ook was het zo dat we gingen werken met scrum dit was een verplichting vanuit school. Zelf had ik nog niet eerder gewerkt met scrum en was dit nieuw. Wel had ik de workshop gevolgd van meneer Andrioli dus het één en ander was al vertelt. Dagelijks hadden we om 09:30 een daily standup waarin je vertelt wat je hebt gedaan en wat je van plan bent om te doen. Als je ergens niet uitkomt kan je dat ook vertellen. De meetings waren uiteraard allemaal online. 
+
+Dagelijks hebben we aan dit project gezeten van 09:30 tot 16:00 - 17:00. Dit gebeurde vanwege COVID-19, dus allemaal vanuit thuis. Dit kwam voor mij niet altijd gelegen, omdat ik niet goed kan focussen vanaf thuis. Vandaar ben ik ook vaak naar de HHS van zoetermeer geweest of HS, waar ik in rust kan zitten aan het project. Het was een leerzame project, Datacamp heeft ervoor gezorgd dat ik het programmeren heb geleerd. 
+
+Ik ben tevreden met het resultaat, want ik heb veel geleerd van zowel de docenten als de projectleden. Het werken in teamverband en het werken met een opdrachtgever is van belang om te beheersen. Tijdens dit projec had ik ook projectleden aan wie ik dingen kon vragen als ik er zelf niet uitkwam.
+
+Wat ik heb geleerd van programmeren is dat als ik ergens vastloop ik niet hier uren moet blijven hangen, maar misschien een projectlid vragen of hij mij hiermee zou kunnen helpen. De eerste weken van de minor durfde ik nog geen vragen te stellen, omdat ik het gevoel had dat de andere studenten zelf te druk waren. Tijdens een gesprek hebben ze vertelt dat dit neit het geval is en dat ik altijd vragen kan stellen als nodig.

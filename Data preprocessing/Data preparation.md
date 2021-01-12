@@ -2,7 +2,7 @@
 
 De student heeft data voorbereid  
 
-We hebben een dataframe gemaakt voor consumptie om te gebruiken voor verschillende modellen. We hebben ook resampled op 1 uur en de features toegevoegd
+We hebben een dataframe gemaakt voor consumptie om te gebruiken voor verschillende modellen.
 
 ```python
 samplehours = 1
@@ -38,4 +38,34 @@ Resamplen hebben we gedaan met de volgende code
 # Resampling to an hour
 df = df['2019']
 df = df.resample(str(samplehours)+'H').sum()
+```
+
+Vervolgens hebben consumption geshift
+```python
+def shifting(sf, shift:int):
+    sf['cons_T-'+str(shift)] = sf['consumption'].shift(periods=shift, freq='H')
+    return sf
+
+temp_df = df.filter(items=['consumption'])
+day_temp_df = df.filter(items=['consumption'])
+
+shiftDagen = [24, 48, 72, 168]
+
+#week
+for i in range(24, 168+1):
+    temp_df = shifting(temp_df, i)
+temp_df = temp_df.drop(['consumption'], axis=1)
+
+#day
+for i in range(24, 48+1):
+    day_temp_df = shifting(day_temp_df, i)
+day_temp_df = day_temp_df.drop(['consumption'], axis=1)
+
+#Shifted days
+for i in shiftDagen:
+    df = shifting(df, i)
+
+#columns added
+df['day_mean'] = day_temp_df.mean(axis=1, skipna=True)
+df['week_mean'] = temp_df.mean(axis=1, skipna=True)
 ```
